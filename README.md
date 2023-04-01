@@ -1,5 +1,7 @@
-# TODO webapp
+# Todo list
 Simple todo list REST API
+
+> Archived
 
 ## Prerequisites
 * Python3.6+
